@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "7.3.0",
+    "@formkit/tempo": "^0.0.15",
     "@hapi/boom": "10.0.0",
     "cors": "2.8.5",
     "date-fns": "2.28.0",
